@@ -20,6 +20,67 @@ console.log(typeof boolType);
 // Boolean Literals: true and false represent boolean values.
 // Null Literal: null represents the intentional absence of a value.
 
+// To_UpperCase and TO_ Lowercase method
+
+let rochona='jjjjjjjdkdlssldfkfkfkkfkfkfkfkfkkfkfkf';
+
+console.log(rochona.toUpperCase()); 
+
+let Rochona='FOYSAL AHMED PRANTO';
+console.log(Rochona.toLowerCase());
+// opoerators
+
+let num1=50;
+let num2 =50;
+
+let total =num1+num2;
+console.log(total);
+// var total2=num1-num2;
+// var total2=num1*num2;
+var total2=num1/num2;
+console.log(total2);
+
+// Logical And Condition
+
+//if else
+
+let a=20;
+let b= 21;
+if( a>b){
+
+console.log('sucess');
+
+}
+else{
+
+
+    console.log('not success');
+}
+
+
+// nested if ilse
+let age=18;
+if( age>= 18){
+
+    console.log('vote dite parbe');
+    if(age ==18){
+
+console.log('eligable for driving licience')
+
+    }
+}
+else if(age>18){
+
+    cpnsol.log('eligible');
+}
+else {
+
+    console.log('vote dite parbe na');
+}
+
+
+
+
 
 
 
