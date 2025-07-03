@@ -16,4 +16,5 @@ function testVariables() {
     console.log(x); // 🔹 Logs: 40 (was overwritten in if block)
     console.log(y); // 🔹 Logs: 20 (unchanged outside if block)
     console.log(z); // 🔹 Logs: 30 (same constant value)
-}
+} 
+testVariables();

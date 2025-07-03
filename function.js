@@ -42,8 +42,8 @@ return jugKor;
 }
 var uhu=hudai(200);
 console.log(uhu);
-var mew=hudai(100)
-console.log(mew)
-console.log(uhu+mew)
-
+var mew=hudai(100);
+console.log(mew);
+console.log(uhu+mew);
+                                          
 
