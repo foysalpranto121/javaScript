@@ -1,4 +1,4 @@
-var score = 85; 
+let score = 85; 
 
 // Check grade condition 
 if (score >= 90 && score <= 100) {
