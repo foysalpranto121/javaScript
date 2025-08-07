@@ -1,0 +1,6 @@
+getElemtsByID();
+getElemetsBYClassName();
+getElemetsBYName();
+getElemetsBYTagName();
+QuarrySelector()
+QuarrySelectorAll()
