@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+    padding: 20px;
+    background-color: white;
+    color: black;
+}
+
+.dark-mode {
+    background-color: #333;
+    color: white;
+}
+
+#todo-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+#todo-list li {
+    padding: 8px;
+    border-bottom: 1px solid #ddd;
+}
